@@ -239,8 +239,7 @@ A：从我个人的角度，更建议在大一的时候**定好自己未来的�
 
 ## 友情链接
 
-[HFUTXC生存指南]: https://survive-hfutxc.github.io/#/
-[HFUT-ME-CoursesData]: https://github.com/Luorily/HFUT-ME-CoursesData
+[1. HFUTXC生存指南](https://survive-hfutxc.github.io/#/ )
 
-
+[2. Luorily：HFUT-ME-CoursesData](https://github.com/Luorily/HFUT-ME-CoursesData )
 
