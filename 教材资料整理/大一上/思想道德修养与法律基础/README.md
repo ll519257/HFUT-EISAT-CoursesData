@@ -18,8 +18,8 @@
 
 #### 资料
 
-- [思修部分题库](大学学习/比赛/README.md)
-- [思修复习资料](大学学习/比赛/README.md)
+- [思修部分题库](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80/%E9%A2%98%E5%BA%93)
+- [思修复习资料](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99)
 
 
 
@@ -33,6 +33,6 @@
 
 不好评价，如果老师教的很好可能会很有意思。如果教的不行，那仍然算是水课。
 
-后续对于考研来说还是挺重要的。反正下学期也只有这个和高数了，好好听课也行。
+后续对于考研来说还是挺重要的。反正下半学期也只有这个和高数了，好好听课也行。
 
 ​																																													by 温柔的风狮子

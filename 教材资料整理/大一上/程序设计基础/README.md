@@ -26,9 +26,9 @@ https://wwn.lanzouo.com/b02uitgpg
 
 #### 资料：
 
-- [部分考试题库](部分考试题库.zip)
-- [复习资料](复习资料.zip)
-- [课程PPT](PPT.zip)
+- [部分考试题库](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/%E9%83%A8%E5%88%86%E8%80%83%E8%AF%95%E9%A2%98%E5%BA%93)
+- [复习资料](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99)
+- [课程PPT](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/PPT)
 
 
 

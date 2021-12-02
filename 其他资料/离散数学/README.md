@@ -20,7 +20,7 @@
 
 #### 资料
 
-- [实验资料](大学学习/比赛/README.md)
+- [实验资料](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E5%85%B6%E4%BB%96%E8%B5%84%E6%96%99/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E5%AE%9E%E9%AA%8C%E8%B5%84%E6%96%99)
 
 ## 考试说明
 

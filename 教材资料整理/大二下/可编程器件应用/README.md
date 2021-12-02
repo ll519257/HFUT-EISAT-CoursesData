@@ -12,7 +12,7 @@
 
 #### 资料
 
-- [部分常见代码](大学学习/比赛/README.md)
+- [部分常见代码](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E5%8F%AF%E7%BC%96%E7%A8%8B%E5%99%A8%E4%BB%B6%E5%BA%94%E7%94%A8/%E9%83%A8%E5%88%86%E5%B8%B8%E8%A7%81%E4%BB%A3%E7%A0%81)
 
 ## 考试说明
 
