@@ -175,15 +175,15 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
        ii) 上传文件到新文件夹：
             按照课程结构示意图在本地新建一个文件夹后, 进入仓库的主页面。点击 Upload files，上传你的文件夹。
     
-    3. 提交 PR(Pull Request), 等待机器人@libbot-hfut审核。
+    3. 提交 PR(Pull Request), 等待机器人@sunshineclover审核。
 
 也可以采用 Github 的[网页编辑器](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)进行上传，具体操作如下：
 
     1. 首先 Fork 本项目(复制到我的仓库)。
     
-    2. 方法一: 直接前往 https://github.dev/你的用户名/lib-hfut
+    2. 方法一: 直接前往 https://github.dev/你的用户名/HFUT-EISAT-CoursesData
        方法二:
-            1) 打开 https://github.com/你的用户名/lib-hfut
+            1) 打开 https://github.com/你的用户名/HFUT-EISAT-CoursesData
             2) 按下键盘上的 . 键，以进入 Github 网页编辑器
     
     3. 上传文件 / 文件夹
@@ -199,7 +199,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
         3) 上传新文件夹：
             在将文件夹拖至根目录或右击根目录并点击 Upload 进行上传。
     
-    4. 提交 PR(Pull Request), 等待机器人@libbot-hfut审核。
+    4. 提交 PR(Pull Request), 等待机器人@sunshineclover审核。
 
 你也可以发送邮件至 849935737@qq.com。仓库的维护者将会通过机器人进行不具名添加。
 
