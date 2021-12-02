@@ -1,0 +1,9 @@
+site_name: HFUT-EISAT-CourseData
+nav:
+- 写在前面: index.md
+- 资料目录: 资料目录.md
+- 资料下载: 资料下载.md
+- 一些想法: 一些想法.md
+- 培养计划: 电信科培养计划-2020.md
+- 提交模板: 模板.md
+theme: readthedocs
