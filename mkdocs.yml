@@ -9,3 +9,9 @@ nav:
 - 提交模板: 模板.md
 - 写在最后: 写在最后.md
 theme: readthedocs
+plugins:
+    - search:
+        lang:
+            - en
+            - ja
+        separator: '[\s\-\.]+'
