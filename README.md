@@ -2,7 +2,7 @@
 
 ## 写在前面
 
-- 可以通过https://sunshineclover.github.io/HFUT-EISAT-CoursesData/打开本仓库。
+- 可以通过 https://sunshineclover.github.io/HFUT-EISAT-CoursesData/    来打开本仓库。
 - 本仓库主要收集宣区电信科上课所需要使用的资料，**若有版权问题可直接联系邮箱849935737@qq.com，立马删除~**
 - 教材pdf，资料等部分大文件仅会提供百度网盘和蓝奏云两个网盘链接，可自行前去下载~ **对于超过100m的大文件目前仅会传到百度网盘中**，若有其他好用的网盘欢迎联系我~ 
 - 在每门课程的README.md下，都有着对这门学科的主观想法（考试说明，课程评价），欢迎各位在最后的课程评价区留言~
