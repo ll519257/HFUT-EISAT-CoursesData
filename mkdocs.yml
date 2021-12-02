@@ -8,10 +8,11 @@ nav:
 - 贡献方式: 贡献方式.md
 - 提交模板: 模板.md
 - 写在最后: 写在最后.md
-theme: readthedocs
+
 plugins:
     - search:
         lang:
             - en
             - ja
         separator: '[\s\-\.]+'
+theme: readthedocs
