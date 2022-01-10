@@ -1,15 +1,16 @@
 # 写在前面
 
+- 仓库的Web page：https://sunshineclover.github.io/HFUT-EISAT-CoursesData/ 
+- **Notion端的Web page**（推荐）：https://holy-parsley-de2.notion.site/e440a09d1f354fce99ef551319b3f021
+- Github仓库（更新频繁）链接为：https://github.com/sunshineclover/HFUT-EISAT-CoursesData
+- Gitee仓库链接为：https://gitee.com/gentlewindlion/HFUT-EISAT-CoursesData
 - 本仓库主要收集宣区电信科上课所需要使用的资料，**若有版权问题可直接联系邮箱gentlewindlion@qq.com，立马删除~**
-- 教材pdf，资料等部分大文件仅会提供百度网盘和蓝奏云两个网盘链接，可自行前去下载~ **对于超过100m的大文件目前仅会传到百度网盘中**，若有其他好用的网盘欢迎联系我~ 
+- 教材pdf，资料等部分大文件会提供百度网盘，阿里云盘，123云盘，蓝奏网盘链接，可自行前去下载~ **对于超过100m的大文件目前会传到百度网盘，阿里云盘，123云盘中**，若有其他好用的网盘欢迎联系我~ 
 - 在每门课程的README.md下，都有着对这门学科的主观想法（考试说明，课程评价），欢迎各位在最后的课程评价区留言~
 - 主要目的是给后续学生提供一个参考资料和学习方法~ 为后续学生铺路~ 属于是为爱发电了~
 - 本仓库是纯个人资料收集项目。如果有需要补充的地方，欢迎提 issues 或者开discussions或者发邮件与我联系。 一起为仓库做点贡献~
 - 各个课程目录下的README.md文件模板已在主目录下给出，有兴趣贡献的同学可以按照这个格式进行填写。非常欢迎各位同学留下自己的课程评价，给后续学生参考~
-- 目前的中文搜索支持的不是很好。可以手动在搜索内容后**加一个空格**，有的时候能搜索成功。如"高等数学 ”
-- Github仓库**（推荐，更新频繁）**可点击[此处](https://github.com/sunshineclover/HFUT-EISAT-CoursesData)进入。Gitee仓库可点击[此处](https://gitee.com/gentlewindlion/HFUT-EISAT-CoursesData)进入。
-
-
+- 更推荐使用**Notion**的方式给每门课程提出评论/建议，甚至你也可以直接修改部分您觉得不适合的内容，当然了，这部分需要注册Notion账号。
 
 
 

@@ -3,14 +3,16 @@
 ## 写在前面
 
 - 仓库的Web page：https://sunshineclover.github.io/HFUT-EISAT-CoursesData/ 
+- **Notion端的Web page**（推荐）：https://holy-parsley-de2.notion.site/e440a09d1f354fce99ef551319b3f021
 - Github仓库（更新频繁）链接为：https://github.com/sunshineclover/HFUT-EISAT-CoursesData
 - Gitee仓库链接为：https://gitee.com/gentlewindlion/HFUT-EISAT-CoursesData
 - 本仓库主要收集宣区电信科上课所需要使用的资料，**若有版权问题可直接联系邮箱gentlewindlion@qq.com，立马删除~**
-- 教材pdf，资料等部分大文件仅会提供百度网盘和蓝奏云两个网盘链接，可自行前去下载~ **对于超过100m的大文件目前仅会传到百度网盘中**，若有其他好用的网盘欢迎联系我~ 
+- 教材pdf，资料等部分大文件会提供百度网盘，阿里云盘，123云盘，蓝奏网盘链接，可自行前去下载~ **对于超过100m的大文件目前会传到百度网盘，阿里云盘，123云盘中**，若有其他好用的网盘欢迎联系我~ 
 - 在每门课程的README.md下，都有着对这门学科的主观想法（考试说明，课程评价），欢迎各位在最后的课程评价区留言~
 - 主要目的是给后续学生提供一个参考资料和学习方法~ 为后续学生铺路~ 属于是为爱发电了~
 - 本仓库是纯个人资料收集项目。如果有需要补充的地方，欢迎提 issues 或者开discussions或者发邮件与我联系。 一起为仓库做点贡献~
 - 各个课程目录下的README.md文件模板已在主目录下给出，有兴趣贡献的同学可以按照这个格式进行填写。非常欢迎各位同学留下自己的课程评价，给后续学生参考~
+- 更推荐使用**Notion**的方式给每门课程提出评论/建议，甚至你也可以直接修改部分您觉得不适合的内容，当然了，这部分需要注册Notion账号。
 
 
 
@@ -123,19 +125,41 @@
 
 #### （1）百度网盘
 
-存储**全部教材**的百度网盘链接：https://pan.baidu.com/s/1emO_UjzPj2SvrOFBwkudkA
+存储**全部教材**的百度网盘链接：https://pan.baidu.com/s/1M8eplTGWrrJgNio4V_ejMg 
 
 密码：hfut
 
+
+
 #### （2）阿里云盘
 
-存储**全部教材**的阿里云盘链接：https://www.aliyundrive.com/s/Am1VNG7AX2L
+由于数量过多，阿里云盘需要分文件夹分享。
+
+大一上：https://www.aliyundrive.com/s/bRLpogNMR7J
+
+大一下：https://www.aliyundrive.com/s/g9tWti713Xn
+
+大二上：https://www.aliyundrive.com/s/QYhiRtQfwoH
+
+大二下：https://www.aliyundrive.com/s/zAWZEtcyTbW
+
+其他资料：https://www.aliyundrive.com/s/ReCcFn7Ppmd
 
 
 
 #### （3）蓝奏云
 
 你可以在各个课程目录的md文件中找到**小于100M文件**的下载地址。
+
+
+
+#### （4）123云盘
+
+由热心同学推荐，目前与百度网盘/阿里云盘相同，存储了全部内容。
+
+存储**全部教材**的123云盘链接：https://www.123pan.com/s/Fyo9-dzrJH
+
+提取密码：hfut
 
 
 
