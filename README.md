@@ -8,6 +8,7 @@
 - Gitee仓库链接为：https://gitee.com/gentlewindlion/HFUT-EISAT-CoursesData
 - 本仓库主要收集宣区电信科上课所需要使用的资料，**若有版权问题可直接联系邮箱gentlewindlion@qq.com，立马删除~**
 - 教材pdf，资料等部分大文件会提供百度网盘，阿里云盘，123云盘，蓝奏网盘链接，可自行前去下载~ **对于超过100m的大文件目前会传到百度网盘，阿里云盘，123云盘中**，若有其他好用的网盘欢迎联系我~ 
+- 对于其他资料，可前往本人的另一个github仓库查看~（**跟专业学习过程无关，主要是个人的学习资料记录**）
 - 在每门课程的README.md下，都有着对这门学科的主观想法（考试说明，课程评价），欢迎各位在最后的课程评价区留言~
 - 主要目的是给后续学生提供一个参考资料和学习方法~ 为后续学生铺路~ 属于是为爱发电了~
 - 本仓库是纯个人资料收集项目。如果有需要补充的地方，欢迎提 issues 或者开discussions或者发邮件与我联系。 一起为仓库做点贡献~
@@ -100,6 +101,7 @@
 - 形势与政策（4）
 - 大学英语（4）
 - 大学体育（4）
+- 中国文化概论
 
 #### 大三上
 
@@ -107,17 +109,11 @@
 
 #### 大四上
 
-#### 其他资料
+#### 大四下
 
-- 四六级相关
 
-- 日语相关
 
-- 离散数学
 
-- 51单片机
-
-  
 
 ## 资料下载
 
@@ -164,6 +160,12 @@
 
 
 ### 二.其他资料下载
+
+可以进入**另一仓库**，阅读下载个人学习过程中总结的其他资料~
+
+
+
+### 三.注意事项
 
 1. 若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
 2. 你当然可以克隆或者下载整个项目，但因为整个项目较大，可能对于一部分人不太方便。这里对于使用Chrome和Firefox的用户，我们推荐一个[Chrome插件](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?hl=en)和[Firefox插件](https://addons.mozilla.org/en-US/firefox/addon/gitzip/)，**GitZip**。该插件可以让我们只下载项目中我们感兴趣的那些文件夹，也就是我们所感兴趣的课程的资料。同时对Opera用户来说，大部分的Chrome插件都可以通过一款名为[Install Chrome Extensions](https://addons.opera.com/zh-cn/extensions/details/install-chrome-extensions/)的Opera插件安装使用，GitZip也不例外。而对于使用其他浏览器的朋友来说，很遗憾，这个插件暂时只能在这三款浏览器中使用。
