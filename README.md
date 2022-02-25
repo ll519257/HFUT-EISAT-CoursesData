@@ -5,7 +5,7 @@
 - 仓库的Web page：https://sunshineclover.github.io/HFUT-EISAT-CoursesData/ 
 - **Notion端的Web page**（推荐）：https://holy-parsley-de2.notion.site/e440a09d1f354fce99ef551319b3f021
 - Github仓库（更新频繁）链接为：https://github.com/sunshineclover/HFUT-EISAT-CoursesData
-- Gitee仓库链接为：https://gitee.com/gentlewindlion/HFUT-EISAT-CoursesData
+- Gitee仓库链接为：https://gitee.com/gentlewindlion/hfut-eisat-courses-data
 - 本仓库主要收集宣区电信科上课所需要使用的资料，**若有版权问题可直接联系邮箱gentlewindlion@qq.com，立马删除~**
 - 教材pdf，资料等部分大文件会提供百度网盘，阿里云盘，123云盘，蓝奏网盘链接，可自行前去下载~ **对于超过100m的大文件目前会传到百度网盘，阿里云盘，123云盘中**，若有其他好用的网盘欢迎联系我~ 
 - 对于其他资料，可前往本人的另一个[**github仓库**](https://github.com/sunshineclover/Learning)查看~（**跟专业学习过程无关，主要是个人的学习资料记录**）
