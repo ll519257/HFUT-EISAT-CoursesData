@@ -7,7 +7,7 @@
 - Github仓库（更新频繁）链接为：https://github.com/sunshineclover/HFUT-EISAT-CoursesData
 - Gitee仓库链接为：https://gitee.com/gentlewindlion/hfut-eisat-courses-data
 - 本仓库主要收集宣区电信科上课所需要使用的资料，**若有版权问题可直接联系邮箱gentlewindlion@qq.com，立马删除~**
-- 教材pdf，资料等部分大文件会提供百度网盘，阿里云盘，123云盘，蓝奏网盘链接，可自行前去下载~ **对于超过100m的大文件目前会传到百度网盘，阿里云盘，123云盘中**，若有其他好用的网盘欢迎联系我~ 
+- **所有资料文件**会提供百度网盘，阿里云盘，123云盘，蓝奏网盘链接，可自行前去下载~ **对于超过100m的大文件目前会传到百度网盘，阿里云盘，123云盘中**，若有其他好用的网盘欢迎联系我~ 
 - 对于其他资料，可前往本人的另一个[**github仓库**](https://github.com/sunshineclover/Learning)查看~（**跟专业学习过程无关，主要是个人的学习资料记录**）
 - 在每门课程的README.md下，都有着对这门学科的主观想法（考试说明，课程评价），欢迎各位在最后的课程评价区留言~
 - 主要目的是给后续学生提供一个参考资料和学习方法~ 为后续学生铺路~ 属于是为爱发电了~
@@ -117,11 +117,11 @@
 
 ## 资料下载
 
-### 一.教材下载
+### 一.课程相关资料下载
 
 #### （1）百度网盘
 
-存储**全部教材**的百度网盘链接：https://pan.baidu.com/s/1NQQ0adPO_m_DVlvXjMEKpg?pwd=hfut 
+存储**全部资料**的百度网盘链接：https://pan.baidu.com/s/1NQQ0adPO_m_DVlvXjMEKpg?pwd=hfut 
 
 密码：hfut
 
@@ -151,7 +151,7 @@
 
 由热心同学推荐，目前与百度网盘/阿里云盘相同，存储了全部内容。
 
-存储**全部教材**的123云盘链接：https://www.123pan.com/s/Fyo9-65rJH
+存储**全部资料**的123云盘链接：https://www.123pan.com/s/Fyo9-65rJH
 
 提取密码：hfut
 
@@ -159,7 +159,7 @@
 
 ### 二.其他资料下载
 
-可以进入[**github仓库**](https://github.com/sunshineclover/Learning)，阅读下载个人学习过程中总结的其他资料~
+可以进入[**github仓库**](https://github.com/sunshineclover/Learning)**，阅读下载个人学习过程中总结的其他资料~
 
 
 
