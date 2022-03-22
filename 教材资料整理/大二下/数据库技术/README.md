@@ -1,4 +1,4 @@
-# 专业认知实习
+# 数据库技术
 
 ## 教材/资料
 
@@ -14,7 +14,10 @@
 
 #### 资料
 
+#### 推荐网课资源
 
+- [哈尔滨工业大学-数据库系统（上+中+下）](https://www.bilibili.com/video/BV1PJ411F78b?spm_id_from=333.999.0.0)
+- [【拯救者】数据库系统概论速成](https://www.bilibili.com/video/BV1jf4y147jz?spm_id_from=333.999.0.0)
 
 ## 考试说明
 

@@ -18,6 +18,11 @@
 - **数学物理方法与特殊函数→对应pdf**
 - **电磁场与电磁波 习题解答与同步辅导**
 
+#### 推荐网课资源
+
+- [电磁场与电磁波 西安交大 马西奎](https://www.bilibili.com/video/BV1w7411T7oT?spm_id_from=333.999.0.0)
+- [电磁场与电磁波](https://www.bilibili.com/video/BV1uV411H7xf?spm_id_from=333.999.0.0)
+
 
 
 ## 考试说明
