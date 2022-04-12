@@ -14,6 +14,9 @@
 
 #### 资料
 
+- [习题答案](https://www.docin.com/p-2700846445.html)
+- 更推荐公众号中搜答案：https://mp.weixin.qq.com/s/GUmuq7H_28KxzwZvQXu_dA
+
 #### 推荐网课资源
 
 - [哈尔滨工业大学-数据库系统（上+中+下）](https://www.bilibili.com/video/BV1PJ411F78b?spm_id_from=333.999.0.0)
